@@ -1,0 +1,833 @@
+Character,Actor,Episodes_appeared,First_appearance,Last_appearance,Mother,Father,House
+Tyrion Lannister,Peter Dinklage,67,2011,2019,Joanna Lannister,Tywin Lannister,Lannister
+Cersei Lannister,Lena Headey,62,2011,2019,Joanna Lannister,Tywin Lannister,Lannister
+Daenerys Targaryen,Emilia Clarke,62,2011,2019,Unknown,Aerys Targaryen,Targaryen
+Jon Snow,Kit Harington,62,2011,2019,Lyanna Stark,Eddard Stark,Stark
+Sansa Stark,Sophie Turner,59,2011,2019,Lyanna Stark,Eddard Stark,Stark
+Arya Stark,Maisie Williams,59,2011,2019,Lyanna Stark,Eddard Stark,Stark
+Jaime Lannister,Nikolaj Coster-Waldau,55,2011,2019,Joanna Lannister,Tywin Lannister,Lannister
+Jorah Mormont,Iain Glen,52,2011,2019,Unknown,Jeor Mormont,Mormont
+Samwell Tarly,John Bradley,48,2011,2019,Melessa Tarly,Randyll Tarly,Tarly
+Theon Greyjoy,Alfie Allen,47,2011,2019,Unknown,Balon Greyjoy,Greyjoy
+Lord Varys,Conleth Hill,46,2011,2019,Unknown,Unknown,Unknown
+Davos Seaworth,Liam Cunningham,42,2012,2019,Unknown,Unknown,Seaworth
+Brienne of Tarth,Gwendoline Christie,42,2012,2019,Unknown,Unknown,Tarth
+Petyr 'Littlefinger' Baelish,Aidan Gillen,41,2011,2017,Unknown,Unknown,Baelish
+Bran Stark,Isaac Hempstead Wright,40,2011,2019,Lyanna Stark,Eddard Stark,Stark
+Sandor 'The Hound' Clegane,Rory McCann,38,2011,2019,Unknown,Unknown,Clegane
+Missandei,Nathalie Emmanuel,38,2013,2019,Unknown,Unknown,Unknown
+Bronn,Jerome Flynn,37,2011,2019,Unknown,Unknown,Unknown
+Podrick Payne,Daniel Portman,35,2012,2019,Unknown,Unknown,Payne
+Grey Worm,Jacob Anderson,34,2013,2019,Unknown,Unknown,Unsullied
+Eddison Tollett,Ben Crompton,34,2012,2019,Unknown,Unknown,Unknown
+Tormund Giantsbane,Kristofer Hivju,33,2013,2019,Unknown,Unknown,Unknown
+Grand Maester Pycelle,Julian Glover,31,2011,2016,Unknown,Unknown,Unknown
+Melisandre,Carice van Houten,29,2012,2019,Unknown,Unknown,Unknown
+Tywin Lannister,Charles Dance,27,2011,2015,Unknown,Unknown,Lannister
+Gilly,Hannah Murray,27,2012,2019,Unknown,Craster,Unknown
+Margaery Tyrell,Natalie Dormer,26,2012,2016,Unknown,Mace Tyrell,Tyrell
+Joffrey Baratheon,Jack Gleeson,26,2011,2014,Cersei Lannister,Jamie Lannister,Lannister
+Catelyn Stark,Michelle Fairley,26,2011,2016,Unknown,Hoster Tully,Stark
+Barristan Selmy,Ian McElhinney,25,2011,2015,Unknown,Unknown,Unknown
+Stannis Baratheon,Stephen Dillane,24,2012,2015,Unknown,Unknown,Baratheon
+Gendry,Joe Dempsie,24,2011,2019,Unknown,Robert Baratheon,Baratheon
+Hodor,Kristian Nairn,23,2011,2016,Unknown,Unknown,Stark
+Qyburn,Anton Lesser,22,2013,2019,Unknown,Unknown,Lannister
+Grenn,Mark Stanley,22,2011,2014,Unknown,Unknown,Unknown
+Robb Stark,Richard Madden,22,2011,2016,Catelyn Stark,Eddard Stark,Stark
+Loras Tyrell,Finn Jones,21,2011,2016,Unknown,Mace Tyrell,Tyrell
+Shae,Sibel Kekilli,20,2011,2014,Unknown,Unknown,Unknown
+Ramsay Bolton,Iwan Rheon,20,2013,2016,Unknown,Roose Bolton,Bolton
+Roose Bolton,Michael McElhatton,20,2012,2016,Unknown,Unknown,Bolton
+Alliser Thorne,Owen Teale,19,2011,2016,Unknown,Unknown,Thorne
+Daario Naharis,Michiel Huisman,18,2014,2016,Unknown,Unknown,Targaryen
+Olenna Tyrell,Diana Rigg,18,2013,2017,Unknown,Unknown,Tyrell
+Tommen Baratheon,Dean-Charles Chapman,18,2013,2016,Cersei Lannister,Jamie Lannister,Baratheon
+Ygritte,Rose Leslie,17,2012,2014,Unknown,Unknown,Free Folk
+Jaqen H'ghar,Tom Wlaschiha,17,2012,2016,Unknown,Unknown,Unknown
+Gregor 'The Mountain' Clegane,Hafþór Júlíus Björnsson,17,2014,2019,Unknown,Unknown,Clegane
+Olly,Brenock O'Connor,17,2014,2016,Unknown,Guymon,Night's Watch
+Meryn Trant,Ian Beattie,17,2011,2015,Unknown,Unknown,Trant
+Osha,Natalia Tena,16,2011,2016,Unknown,Unknown,Stark
+Yara Greyjoy,Gemma Whelan,16,2012,2019,Unknown,Balon Greyjoy,Greyjoy
+Meera Reed,Ellie Kendrick,16,2013,2017,Unknown,Howland Reed,Reed
+Wun Wun,Ian Whyte,16,2011,2019,Unknown,Unknown,Free Folk
+Lancel Lannister,Eugene Simon,16,2011,2016,Unknown,Kevan Lannister,Lannister
+Janos Slynt,Dominic Carter,15,2011,2015,Unknown,Unknown,Slynt
+Maester Luwin,Donald Sumpter,14,2011,2012,Unknown,Unknown,Order of Maesters
+Ros,Esmé Bianco,14,2011,2013,Unknown,Unknown,Unknown
+Rickon Stark,Art Parkinson,14,2011,2016,Catelyn Stark,Eddard Stark,Stark
+Othell Yarwyck,Brian Fortune,14,2011,2016,Unknown,Unknown,Night's Watch
+Ellaria Sand,Indira Varma,13,2014,2017,Unknown,Unknown,Uller
+Rodrik Cassel,Ron Donachie,13,2011,2012,Unknown,Unknown,Cassel
+Beric Dondarrion,Richard Dormer,13,2013,2019,Unknown,Unknown,Dondarrion
+Mace Tyrell,Roger Ashton-Griffiths,13,2014,2016,Olenna Tyrell,Unknown,Tyrell
+Yohn Royce,Rupert Vansittart,13,2014,2019,Unknown,Unknown,Royce
+Pypar,Josef Altin,13,2011,2014,Unknown,Unknown,Night's Watch
+Irri,Amrita Acharia,13,2011,2012,Unknown,Unknown,Targaryen
+High Sparrow,Jonathan Pryce,12,2015,2016,Unknown,Unknown,Faith of the Seven
+Jeor Mormont,James Cosmo,12,2011,2013,Unknown,Unknown,Mormont
+Maester Wolkan,Richard Rycroft,12,2016,2019,Unknown,Unknown,Order of Maesters
+Kevan Lannister,Ian Gelder,12,2011,2016,Unknown,Unknown,Lannister
+Rast,Luke Barnes,12,2011,2014,Unknown,Unknown,Night's Watch
+Hot Pie,Ben Hawkey,12,2011,2017,Unknown,Unknown,Unknown
+Talisa Stark,Oona Chaplin,11,2012,2013,Unknown,Unknown,Stark
+Maester Aemon,Peter Vaughan,11,2011,2015,Unknown,Unknown,Order of Maesters
+The Waif,Faye Marsay,11,2015,2016,Unknown,Unknown,Faceless Men
+Doreah,Roxanne McKee,11,2011,2012,Unknown,Unknown,Unknown
+Qhono,Staz Nair,11,2016,2019,Unknown,Unknown,Targaryen
+Eddard Stark,Sean Bean,10,2011,2011,Unknown,Rickard Stark,Stark
+Thoros of Myr,Paul Kaye,10,2013,2017,Unknown,Unknown,Unknown
+Selyse Baratheon,Tara Fitzgerald,10,2013,2015,Unknown,Unknown,Baratheon
+Jojen Reed,Thomas Brodie-Sangster,10,2013,2014,Unknown,Howland Reed,Reed
+Shireen Baratheon,Kerry Ingram,10,2013,2015,Selyse Baratheon,Stannis Baratheon,Baratheon
+Bowen Marsh,Michael Condron,10,2015,2016,Unknown,Unknown,Night's Watch
+Khal Drogo,Jason Momoa,10,2011,2012,Unknown,Unknown,Unknown
+Euron Greyjoy,Pilou Asbæk,9,2016,2019,Unknown,Unknown,Greyjoy
+Edmure Tully,Tobias Menzies,9,2013,2019,Unknown,Hoster Tully,Tully
+Tyene Sand,Rosabell Laurenti Sellers,9,2015,2017,Ellaria Sand,Oberyn Martell,Tyrell
+Lyanna Mormont,Bella Ramsey,9,2016,2019,Unknown,Unknown,Mormont
+Robin Arryn,Lino Facioli,9,2011,2019,Lysa Arryn,Jon Arryn,Arryn
+Renly Baratheon,Gethin Anthony,8,2011,2012,Unknown,Unknown,Baratheon
+Locke,Noah Taylor,8,2013,2014,Unknown,Unknown,Unknown
+Obara Sand,Keisha Castle-Hughes,8,2015,2017,Unknown,Unknown,Unknown
+Hizdahr zo Loraq,Joel Fry,8,2014,2015,Unknown,Unknown,Unknown
+Nymeria Sand,Jessica Henwick,8,2015,2017,Unknown,Unknown,Unknown
+Septa Unella,Hannah Waddingham,8,2015,2016,Unknown,Unknown,Unknown
+Myranda,Charlotte Hope,8,2013,2016,Unknown,Unknown,Unknown
+Kovarro,Steven Cole,8,2012,2012,Unknown,Unknown,Unknown
+Tommen Baratheon,Callum Wharry,8,2011,2012,Cersei Lannister,Jamie Lannister,Baratheon
+Myrcella Baratheon,Aimee Richardson,8,2011,2012,Cersei Lannister,Jamie Lannister,Baratheon
+Marei,Josephine Gillan,8,2012,2019,Unknown,Unknown,Unknown
+Robert Baratheon,Mark Addy,7,2011,2011,Unknown,Unknown,Baratheon
+Oberyn Martell,Pedro Pascal,7,2014,2014,Unknown,Unknown,Martell
+Yoren,Francis Magee,7,2011,2012,Unknown,Unknown,Unknown
+Brynden 'Blackfish' Tully,Clive Russell,7,2013,2016,Unknown,Unknown,Unknown
+Olyvar,Will Tudor,7,2013,2015,Unknown,Unknown,Unknown
+Rakharo,Elyes Gabel,7,2011,2012,Unknown,Unknown,Unknown
+Bernadette,Sara Dylan,7,2012,2017,Unknown,Unknown,Unknown
+Walder Frey,David Bradley,6,2011,2017,Unknown,Unknown,Unknown
+Benjen Stark,Joseph Mawle,6,2011,2017,Unknown,Rickard Stark,Stark
+Orell,Mackenzie Crook,6,2013,2013,Unknown,Unknown,Unknown
+Areo Hotah,Deobia Oparei,6,2015,2016,Unknown,Unknown,Unknown
+Septa Mordane,Susan Brown,6,2011,2011,Unknown,Unknown,Unknown
+Black Walder Rivers,Tim Plester,6,2013,2016,Unknown,Unknown,Unknown
+Qotho,Dar Salim,6,2011,2011,Unknown,Unknown,Unknown
+Dontos Hollard,Tony Way,6,2012,2014,Unknown,Unknown,Unknown
+Myrcella Baratheon,Nell Tiger Free,6,2015,2016,Cersei Lannister,Jamie Lannister,Baratheon
+Anguy,Philip McGinley,6,2013,2013,Unknown,Unknown,Unknown
+High Septon,Paul Bentley,6,2013,2015,Unknown,Unknown,Unknown
+Alys Karstark,Megan Parkinson,6,2016,2019,Unknown,Unknown,Unknown
+Night's Watch Officer,Dennis McKeever,6,2011,2013,Unknown,Unknown,Unknown
+Viserys Targaryen,Harry Lloyd,5,2011,2011,Unknown,Aerys Targaryen,Targaryen
+Jory Cassel,Jamie Sives,5,2011,2011,Unknown,Unknown,Unknown
+Lysa Arryn,Kate Dickie,5,2011,2014,Unknown,Hoster Tully,Arryn
+Mance Rayder,Ciarán Hinds,5,2013,2015,Unknown,Unknown,Unknown
+Craster,Robert Pugh,5,2012,2013,Unknown,Unknown,Unknown
+Doran Martell,Alexander Siddig,5,2015,2016,Unknown,Unknown,Unknown
+Xaro Xhoan Daxos,Nonso Anozie,5,2012,2012,Unknown,Unknown,Unknown
+Randyll Tarly,James Faulkner,5,2016,2017,Unknown,Unknown,Unknown
+Robett Glover,Tim McInnerny,5,2016,2017,Unknown,Unknown,Unknown
+Rickard Karstark,John Stahl,5,2012,2013,Unknown,Unknown,Unknown
+Dagmer Cleftjaw,Ralph Ineson,5,2012,2012,Unknown,Unknown,Unknown
+Walda Bolton,Elizabeth Webster,5,2014,2016,Unknown,Unknown,Unknown
+Trystane Martell,Toby Sebastian,5,2015,2016,Unknown,Unknown,Unknown
+The Night King,Vladimir 'Furdo' Furdik,5,2016,2019,Unknown,Unknown,Unknown
+Archmaester Ebrose,Jim Broadbent,4,2017,2017,Unknown,Unknown,Unknown
+Tycho Nestoris,Mark Gatiss,4,2014,2017,Unknown,Unknown,Unknown
+Balon Greyjoy,Patrick Malahide,4,2012,2016,Unknown,Unknown,Unknown
+Pyat Pree,Ian Hanmore,4,2012,2012,Unknown,Unknown,Unknown
+Styr,Yuri Kolokolnikov,4,2014,2014,Unknown,Unknown,Unknown
+Yezzan zo Qaggaz,Enzo Cilenti,4,2015,2016,Unknown,Unknown,Unknown
+Karl Tanner,Burn Gorman,4,2013,2014,Unknown,Unknown,Unknown
+Ilyn Payne,Wilko Johnson,4,2011,2012,Unknown,Unknown,Unknown
+Marillion,Emun Elliott,4,2011,2011,Unknown,Unknown,Unknown
+Dickon Tarly,Tom Hopper,4,2017,2017,Unknown,Unknown,Unknown
+Qhorin Halfhand,Simon Armstrong,4,2012,2012,Unknown,Unknown,Unknown
+Lothar Frey,Daniel Tuite,4,2016,2016,Unknown,Unknown,Unknown
+Rorge,Andy Beckwith,4,2012,2014,Unknown,Unknown,Unknown
+Lommy Greenhands,Eros Vlahos,4,2011,2012,Unknown,Unknown,Unknown
+Matthos Seaworth,Kerr Logan,4,2012,2012,Unknown,Unknown,Unknown
+Armeca,Sahara Knite,4,2011,2012,Unknown,Unknown,Unknown
+Royal Steward,Robert Sterne,4,2011,2011,Unknown,Unknown,Unknown
+Black Lorren,Forbes KB,4,2012,2012,Unknown,Unknown,Unknown
+Amory Lorch,Fintan McKeown,4,2012,2012,Unknown,Unknown,Unknown
+Biter,Gerard Jordan,4,2012,2014,Unknown,Unknown,Unknown
+Young Ned,Robert Aramayo,4,2016,2017,Unknown,Unknown,Unknown
+Baby Sam,William Nevan Wilson,4,2016,2017,Unknown,Unknown,Unknown
+Baby Sam,James Robert Wilson,4,2016,2017,Unknown,Unknown,Unknown
+Timett,Tobias Winter,4,2011,2012,Unknown,Unknown,Unknown
+Steelshanks Walton,Jamie Michie,4,2013,2013,Unknown,Unknown,Unknown
+Izembaro,Richard E. Grant,3,2016,2016,Unknown,Unknown,Unknown
+Lady Crane,Essie Davis,3,2016,2016,Unknown,Unknown,Unknown
+Spice King,Nicholas Blane,3,2012,2012,Unknown,Unknown,Unknown
+Three-Eyed Raven,Max von Sydow,3,2016,2016,Unknown,Unknown,Unknown
+Syrio Forel,Miltos Yerolemou,3,2011,2011,Unknown,Unknown,Unknown
+Harrag,Brendan Cowell,3,2017,2017,Unknown,Unknown,Unknown
+Salladhor Saan,Lucian Msamati,3,2012,2014,Unknown,Unknown,Unknown
+Daario Naharis,Ed Skrein,3,2013,2013,Unknown,Unknown,Unknown
+Greatjon Umber,Clive Mantle,3,2011,2011,Unknown,Unknown,Unknown
+Camello,Kevin Eldon,3,2016,2017,Unknown,Unknown,Unknown
+Harald Karstark,Paul Rattray,3,2016,2016,Unknown,Unknown,Unknown
+Giant Wight #2,Neil Fingleton,3,2014,2017,Unknown,Unknown,Unknown
+Leaf,Kae Alexander,4,2016,2016,Unknown,Unknown,Unknown
+Bobono,Leigh Gill,3,2016,2016,Unknown,Unknown,Unknown
+Razdal mo Eraz,George Georgiou,3,2013,2016,Unknown,Unknown,Unknown
+Lhara,Sarine Sofair,3,2014,2015,Unknown,Unknown,Unknown
+Clarenzo,Rob Callender,3,2016,2016,Unknown,Unknown,Unknown
+Thenn Warg,Joseph Gatt,3,2014,2014,Unknown,Unknown,Unknown
+Mirri Maz Duur,Mia Soteriou,3,2011,2011,Unknown,Unknown,Unknown
+Polliver,Andy Kellegher,3,2012,2014,Unknown,Unknown,Unknown
+Alton Lannister,Karl Davies,3,2012,2012,Unknown,Unknown,Unknown
+Khal Moro,Joseph Naufahu,3,2016,2016,Unknown,Unknown,Unknown
+Ned Umber,Harry Grasby,3,2017,2019,Unknown,Unknown,Unknown
+Kraznys mo Nakloz,Dan Hildebrand,3,2013,2013,Unknown,Unknown,Unknown
+Mossador,Reece Noi,3,2014,2015,Unknown,Unknown,Unknown
+White Walker,Ross Mullan,3,2012,2014,Unknown,Unknown,Unknown
+Rattleshirt,Edward Dogliani,3,2012,2013,Unknown,Unknown,Unknown
+Vala,Meena Rayann,3,2015,2016,Unknown,Unknown,Unknown
+Daisy,Maisie Dee,3,2012,2012,Unknown,Unknown,Unknown
+Bathhouse Prostitute,Samantha Bentley,3,2014,2015,Unknown,Unknown,Unknown
+Silk King,Slavko Juraga,3,2012,2012,Unknown,Unknown,Unknown
+Dothraki Bloodrider #1,Diogo Sales,3,2016,2016,Unknown,Unknown,Unknown
+Musician #1,Nanna Bryndís Hilmarsdóttir,3,2016,2016,Unknown,Unknown,Unknown
+Dothraki Bloodrider #2,Junade Khan,3,2016,2016,Unknown,Unknown,Unknown
+Musician #2,Ragnar Þórhallsson,3,2016,2016,Unknown,Unknown,Unknown
+Musician #3,Arnar Rosenkranz Hilmarsson,3,2016,2016,Unknown,Unknown,Unknown
+Musician #4,Brynjar Leifsson,3,2016,2016,Unknown,Unknown,Unknown
+Loyal Night's Watchman #2,Robert Fawsitt,3,2016,2016,Unknown,Unknown,Unknown
+Musician #5,Kristján Kristjánsson,3,2016,2016,Unknown,Unknown,Unknown
+King's Landing Whore,Xena Avramidis,3,2014,2015,Unknown,Unknown,Unknown
+Dothraki Woman Having Sex,Portia-Valis Volkova,3,2015,2016,Unknown,Unknown,Unknown
+Aggo,Chuku Modu,3,2016,2016,Unknown,Unknown,Unknown
+Frances,Annette Hannah,3,2016,2017,Unknown,Unknown,Unknown
+Brothel Patron #5,Derek Dubery,3,2015,2019,Unknown,Unknown,Unknown
+Hallyne,Roy Dotrice,2,2012,2012,Unknown,Unknown,Unknown
+Harry Strickland,Marc Rissmann,2,2019,2019,Unknown,Unknown,Unknown
+Illyrio Mopatis,Roger Allam,2,2011,2011,Unknown,Unknown,Unknown
+Lem Lemoncloak,Jóhannes Haukur Jóhannesson,2,2016,2016,Unknown,Unknown,Unknown
+Smalljon Umber,Dean Jagger,2,2016,2016,Unknown,Unknown,Unknown
+Martha,Bronte Carmichael,2,2019,2019,Unknown,Unknown,Unknown
+Mord,Ciaran Bermingham,2,2011,2011,Unknown,Unknown,Unknown
+Aeron Greyjoy,Michael Feast,2,2016,2016,Unknown,Unknown,Unknown
+Dim Dalba,Murray McArthur,2,2015,2016,Unknown,Unknown,Unknown
+Belicho Paenymion,Eddie Jackson,2,2016,2016,Unknown,Unknown,Unknown
+Fergus,Seamus O'Hara,2,2019,2019,Unknown,Unknown,Unknown
+Gatins,Ricky Champ,2,2016,2016,Unknown,Unknown,Unknown
+Teela,Bea Glancy,2,2019,2019,Unknown,Unknown,Unknown
+Old Nan,Margaret John,2,2011,2011,Unknown,Unknown,Unknown
+The Night King,Richard Brake,3,2014,2016,Unknown,Unknown,Unknown
+Morgan,Ian Davies,2,2016,2016,Unknown,Unknown,Unknown
+Woman with Elderly Parents,Lucy McConnell,2,2019,2019,Unknown,Unknown,Unknown
+Gregor 'The Mountain' Clegane,Conan Stevens,2,2011,2011,Unknown,Unknown,Unknown
+Malko,Adewale Akinnuoye-Agbaje,2,2015,2015,Unknown,Unknown,Unknown
+Thin Man,Oengus MacNamara,2,2015,2015,Unknown,Unknown,Unknown
+Lothar Frey,Tom Brooke,2,2013,2013,Unknown,Unknown,Unknown
+Bianca,Eline Powell,2,2016,2016,Unknown,Unknown,Unknown
+Vardis Egen,Brendan McCormack,2,2011,2011,Unknown,Unknown,Unknown
+Shagga,Mark Lewis Jones,2,2011,2011,Unknown,Unknown,Unknown
+Quaithe,Laura Pradelska,2,2012,2012,Unknown,Unknown,Unknown
+Margaery Tyrell Mummer,Eva Butterly,2,2016,2016,Unknown,Unknown,Unknown
+Old Woman,Stella McCusker,2,2015,2015,Unknown,Unknown,Unknown
+Baby Sam,Logan Watson,2,2019,2019,Unknown,Unknown,Unknown
+Hugh of the Vale,Jefferson Hall,2,2011,2011,Unknown,Unknown,Unknown
+Morag,Deirdre Monaghan,2,2014,2014,Unknown,Unknown,Unknown
+Todder,Will O'Connell,2,2013,2015,Unknown,Unknown,Unknown
+Johnna,Ali Lyons,2,2015,2015,Unknown,Unknown,Unknown
+Willa,Karla Lyons,2,2015,2015,Unknown,Unknown,Unknown
+Lady Kitty Frey,Lucy Hayes,2,2016,2017,Unknown,Unknown,Unknown
+Baby Sam,Finn Watson,2,2019,2019,Unknown,Unknown,Unknown
+Lyanna Stark,Aisling Franciosi,2,2016,2017,Unknown,Unknown,Stark
+Village Woman,Eileen McCloskey,2,2019,2019,Unknown,Unknown,Unknown
+Farlen,Peter Ballance,2,2012,2012,Unknown,Unknown,Unknown
+Donnel Waynwood,Alisdair Simpson,2,2014,2014,Unknown,Unknown,Unknown
+Drennan,David Coakley,2,2012,2012,Unknown,Unknown,Unknown
+Sissy,Jane McGrath,2,2014,2014,Unknown,Unknown,Unknown
+Dosh khaleen High Priestess,Souad Faress,2,2016,2016,Unknown,Unknown,Unknown
+Zanrush,Gerald Lepkowski,2,2016,2016,Unknown,Unknown,Unknown
+King's Landing Whore,Emily Diamond,2,2011,2011,Unknown,Unknown,Unknown
+Ornela,Hannah John-Kamen,2,2016,2016,Unknown,Unknown,Unknown
+Young Nan,Annette Tierney,2,2016,2016,Unknown,Unknown,Unknown
+Kurleket,Kevin Keenan,2,2011,2011,Unknown,Unknown,Unknown
+Winterfell Shepherd,Donagh Deeney,2,2012,2012,Unknown,Unknown,Unknown
+The Tickler,Anthony Morris,2,2012,2012,Unknown,Unknown,Unknown
+Ghita,Hattie Gotobed,2,2015,2015,Unknown,Unknown,Unknown
+Wyllis,Sam Coleman,2,2016,2016,Unknown,Unknown,Unknown
+Morgan,Chris Reilly,2,2012,2014,Unknown,Unknown,Unknown
+Greizhen mo Ullhor,Cliff Barry,2,2013,2013,Unknown,Unknown,Unknown
+Mole's Town Whore,Lois Winstone,2,2014,2014,Unknown,Unknown,Unknown
+Willis Wode,Ryan McKenna,2,2011,2011,Unknown,Unknown,Unknown
+Jacks,Paul Caddell,2,2012,2012,Unknown,Unknown,Unknown
+Goldcloak,Sam Callis,2,2012,2012,Unknown,Unknown,Unknown
+King's Landing Rioter #1,Reg Wayment,2,2012,2012,Unknown,Unknown,Unknown
+Ternesio Terys,Gary Oliver,2,2014,2015,Unknown,Unknown,Unknown
+Moro's Wife #2,Fola Evans-Akingbola,2,2016,2016,Unknown,Unknown,Unknown
+Master Torturer,Michael Shelford,2,2013,2013,Unknown,Unknown,Unknown
+Great Master #1,Emilio Doorgasingh,2,2014,2014,Unknown,Unknown,Unknown
+Young Ned Stark,Sebastian Croft,2,2016,2016,Unknown,Unknown,Unknown
+Young Rodrik Cassel,Fergus Leathem,2,2016,2016,Unknown,Unknown,Unknown
+Mhaegen,Antonia Christophers,2,2011,2012,Unknown,Unknown,Unknown
+nan,Will Fortune,2,2014,2015,Unknown,Unknown,Unknown
+Mole's Town Madam,Lu Corfield,2,2014,2014,Unknown,Unknown,Unknown
+Lannister Captain,Aiden Condron,2,2012,2012,Unknown,Unknown,Unknown
+Quent,Aidan Crowe,2,2012,2012,Unknown,Unknown,Unknown
+Young Benjen Stark,Matteo Elezi,2,2016,2016,Unknown,Unknown,Unknown
+Dothraki Widow #1,Angelique Fernandez,2,2016,2016,Unknown,Unknown,Unknown
+Stark Guard,David Sheehan,2,2012,2012,Unknown,Unknown,Unknown
+Mummer #2,Glen Barry,2,2016,2016,Unknown,Unknown,Unknown
+Kayla,Pixie Le Knot,2,2013,2014,Unknown,Unknown,Unknown
+Manservant,Conor Watters,2,2014,2014,Unknown,Unknown,Unknown
+Mummer #3,Brendan O'Rourke,2,2016,2016,Unknown,Unknown,Unknown
+Tobho Mott,Andrew Wilde,2,2011,2012,Unknown,Unknown,Unknown
+Mummer #4,Ross Anderson-Doherty,2,2016,2016,Unknown,Unknown,Unknown
+Night's Watchman #1,Michael Hayes,2,2016,2016,Unknown,Unknown,Unknown
+Dothraki Widow #2,Wuese Houston-Jibo,2,2016,2016,Unknown,Unknown,Unknown
+Willem Lannister,Timothy Gibbons,2,2013,2013,Unknown,Unknown,Unknown
+Baratheon Soldier #2,Jason McLaughlin,2,2015,2015,Unknown,Unknown,Unknown
+Loyal Night's Watchman #1,Steve Cash,2,2016,2016,Unknown,Unknown,Unknown
+Night's Watchman #2,Tony Flynn,2,2016,2016,Unknown,Unknown,Unknown
+Night's Watchman,Michael Hooley,2,2016,2016,Unknown,Unknown,Unknown
+The Mother,Em Scribbler,2,2015,2015,Unknown,Unknown,Unknown
+Male Prostitute,Dennis Stokes,2,2012,2012,Unknown,Unknown,Unknown
+The Maiden,Rebecca Scott,2,2015,2015,Unknown,Unknown,Unknown
+The Crone,Rosie Ruthless,2,2015,2015,Unknown,Unknown,Unknown
+Arthur,Nathanael Saleh,2,2016,2016,Unknown,Unknown,Unknown
+Little Bird #4,Jesse Magee,2,2016,2016,Unknown,Unknown,Unknown
+Little Bird #3,Michael Nevin,2,2016,2016,Unknown,Unknown,Unknown
+Little Bird #6,Lucy Gallagher,2,2016,2016,Unknown,Unknown,Unknown
+Little Bird #5,Iona Clarke,2,2016,2016,Unknown,Unknown,Unknown
+Little Bird #7,Fionn Kernan,2,2016,2016,Unknown,Unknown,Unknown
+Three-Eyed Raven,Struan Rodger,2,2014,2014,Unknown,Unknown,Unknown
+Joyeuse Frey,Kelly Long,2,2011,2013,Unknown,Unknown,Unknown
+Tyrell Lady,Sophie Reid,2,2013,2013,Unknown,Unknown,Unknown
+Tommy,Tommy Dunne,2,2011,2014,Unknown,Unknown,Unknown
+Leo Lefford,Vinnie McCabe,2,2011,2011,Unknown,Unknown,Unknown
+Ironborn #2,Robert Render,2,2011,2016,Unknown,Unknown,Unknown
+Brother Ray,Ian McShane,1,2016,2016,Unknown,Unknown,Unknown
+Nora,Laura Elphinstone,1,2019,2019,Unknown,Unknown,Unknown
+Xela,Alexis Raben,1,2019,2019,Unknown,Unknown,Unknown
+Lannister Soldier,Matthew Wolf,1,2019,2019,Unknown,Unknown,Unknown
+Karsi,Birgitte Hjort Sørensen,1,2015,2015,Unknown,Unknown,Unknown
+Nora's Daughter,Tipper Seifert-Cleveland,1,2019,2019,Unknown,Unknown,Unknown
+Singing Lannister Soldier,Stephen Swift,1,2012,2012,Unknown,Unknown,Unknown
+Northern Sentry,Frank Blake,1,2019,2019,Unknown,Unknown,Unknown
+Dying Man,Barry McGovern,1,2014,2014,Unknown,Unknown,Unknown
+Loboda,Zachary Baharov,1,2015,2015,Unknown,Unknown,Unknown
+Lannister Soldier,Ryan McKen,1,2019,2019,Unknown,Unknown,Unknown
+Stark Soldier,Danny Kirrane,1,2017,2017,Unknown,Unknown,Unknown
+Unsullied Captain,Gabriel Akuwudike,1,2019,2019,Unknown,Unknown,Unknown
+Lannister Soldier,Owen Whitelaw,1,2019,2019,Unknown,Unknown,Unknown
+Imry Florent,Gordon Mahon,1,2012,2012,Unknown,Unknown,Unknown
+Captain of the Bolton Archers,Rory Mullen,1,2016,2016,Unknown,Unknown,Unknown
+Koner,Joseph Quinn,1,2017,2017,Unknown,Unknown,Unknown
+Ironborn Lord,Noel Harron,1,2019,2019,Unknown,Unknown,Unknown
+Young Woman,Rori Hawthorn,1,2019,2019,Unknown,Unknown,Unknown
+Mandon Moore,James Doran,1,2012,2012,Unknown,Unknown,Unknown
+Bolton General,Mark Tankersley,1,2016,2016,Unknown,Unknown,Unknown
+Northerner in Alley,Oliver Devoti,1,2019,2019,Unknown,Unknown,Unknown
+Dornish Prince,Toby Osmond,1,2019,2019,Unknown,Unknown,Unknown
+Jhiqui,Sarita Piotrowski,1,2011,2011,Unknown,Unknown,Unknown
+Baratheon Officer,Kieran Cunningham,1,2012,2012,Unknown,Unknown,Unknown
+Northman Rider,David Birkbeck,1,2016,2016,Unknown,Unknown,Unknown
+Melessa Tarly,Samantha Spiro,1,2016,2016,Unknown,Unknown,Unknown
+Winterfell Local,Breige Roche,1,2017,2017,Unknown,Unknown,Unknown
+Riverlands Lord,Andrew Bicknell,1,2019,2019,Unknown,Unknown,Unknown
+Lannister Soldier,Jim Tighe,1,2019,2019,Unknown,Unknown,Unknown
+Will,Bronson Webb,1,2011,2011,Unknown,Unknown,Unknown
+Captain of the Archers,Michael Grennell,1,2012,2012,Unknown,Unknown,Unknown
+Lord of Bones,Ross O'Hennessy,1,2015,2015,Unknown,Unknown,Unknown
+Northman Archer,Paul Garrett,1,2016,2016,Unknown,Unknown,Unknown
+Stark Soldier,Eamonn Keenan,1,2017,2017,Unknown,Unknown,Unknown
+Lord Une,Michael Benbaruk,1,2019,2019,Unknown,Unknown,Unknown
+Mycah,Rhodri Hosking,1,2011,2011,Unknown,Unknown,Unknown
+Jon Arryn,John Standing,1,2011,2011,Unknown,Unknown,Arryn
+Mero,Mark Killeen,1,2013,2013,Unknown,Unknown,Unknown
+Vale Lord,Frank Jakeman,1,2019,2019,Unknown,Unknown,Unknown
+Lannister Soldier,Luke McQuillan,1,2019,2019,Unknown,Unknown,Unknown
+Waymar Royce,Rob Ostlere,1,2011,2011,Unknown,Unknown,Unknown
+Prendahl na Ghezn,Ramon Tikaram,1,2013,2013,Unknown,Unknown,Unknown
+Goatherd,Philip Arditti,1,2014,2014,Unknown,Unknown,Unknown
+Northern Lord,Niall Bishop,1,2019,2019,Unknown,Unknown,Unknown
+King's Landing Citizen,Nicky Harley,1,2019,2019,Unknown,Unknown,Unknown
+Gared,Dermot Keaney,1,2011,2011,Unknown,Unknown,Unknown
+Catspaw Assassin,Lalor Roddy,1,2011,2011,Unknown,Unknown,Unknown
+Maester Cressen,Oliver Ford Davies,1,2012,2012,Unknown,Unknown,Unknown
+Septon,Kenneth Hadley,1,2013,2013,Unknown,Unknown,Unknown
+First Mate,Rhodri Miles,1,2014,2014,Unknown,Unknown,Unknown
+Citadel Maester,Julian Firth,1,2017,2017,Unknown,Unknown,Unknown
+Wight at Table,Javier Botet,1,2019,2019,Unknown,Unknown,Unknown
+King's Landing Citizen,Hayley McQuillan,1,2019,2019,Unknown,Unknown,Unknown
+Crying Man,Pádraig O'Grady,1,2019,2019,Unknown,Unknown,Unknown
+Lannister Guard,Conor Delaney,1,2011,2011,Unknown,Unknown,Unknown
+Maggy,Jodhi May,1,2015,2015,Unknown,Unknown,Unknown
+The Waif's Disguise,Margaret Jackman,1,2016,2016,Unknown,Unknown,Unknown
+Citadel Maester,Philip O'Sullivan,1,2017,2017,Unknown,Unknown,Unknown
+Lannister Soldier,Adam Devereux,1,2019,2019,Unknown,Unknown,Unknown
+Lannister,Eoin Duffy,1,2019,2019,Unknown,Unknown,Unknown
+Roslin Frey,Alexandra Dowling,1,2013,2013,Unknown,Unknown,Unknown
+Anya Waynwood,Paola Dionisotti,1,2014,2014,Unknown,Unknown,Unknown
+Bathhouse Prostitute,Samantha McEwan,1,2014,2014,Unknown,Unknown,Unknown
+Braavosi Captain,Morgan C. Jones,1,2015,2015,Unknown,Unknown,Unknown
+Ironborn #1,Darrell D'Silva,1,2016,2016,Unknown,Unknown,Unknown
+Westerosi Trader,Kevin Horsham,1,2016,2016,Unknown,Unknown,Unknown
+Street Red Priestess Meereen,Melanie Liburd,1,2016,2016,Unknown,Unknown,Unknown
+Goldcloak,Laurence Spellman,1,2017,2017,Unknown,Unknown,Unknown
+nan,Conor Maguire,1,2019,2019,Unknown,Unknown,Unknown
+Lannister Soldier,Thomas Martin,1,2019,2019,Unknown,Unknown,Unknown
+Willa,Alice Nokes,1,2019,2019,Unknown,Unknown,Unknown
+nan,Shane Whisker,1,2019,2019,Unknown,Unknown,Unknown
+Old Man,Sean Buckley,1,2013,2013,Unknown,Unknown,Unknown
+Yunkai'i Whore,Talitha Luke-Eardley,1,2013,2013,Unknown,Unknown,Unknown
+Ironborn in Skiff,Michael Hough,1,2014,2014,Unknown,Unknown,Unknown
+Black Armored White Walker,Tim Loane,1,2015,2015,Unknown,Unknown,Unknown
+Slaver,Michael Yare,1,2015,2015,Unknown,Unknown,Unknown
+Bear Island Maester,Louis Rolston,1,2016,2016,Unknown,Unknown,Unknown
+Rhaegar Targaryen,Wilf Scolding,1,2017,2017,Unknown,Unknown,Unknown
+Fergus' Friend,Thomas Finnegan,1,2019,2019,Unknown,Unknown,Unknown
+Sarra,Danielle Galligan,1,2019,2019,Unknown,Unknown,Unknown
+Lannister Soldier,Brian Patrick Kennedy,1,2019,2019,Unknown,Unknown,Unknown
+Villager 1,Lorcan Strain,1,2019,2019,Unknown,Unknown,Unknown
+Wine Merchant,Simon Lowe,1,2011,2011,Unknown,Unknown,Unknown
+Frey Guard,A.J. Kennedy,1,2013,2013,Unknown,Unknown,Unknown
+Prisoner,Marko Jelic,1,2014,2014,Unknown,Unknown,Unknown
+Great Master #1,Gianpiero Cognoli,1,2015,2015,Unknown,Unknown,Unknown
+Joss,James McKenzie Robinson,1,2015,2015,Unknown,Unknown,Unknown
+Volantene Whore #1,Katie Alexander Thom,1,2016,2016,Unknown,Unknown,Unknown
+High Septon Maynard,Tom Chadbon,1,2017,2017,Unknown,Unknown,Unknown
+King's Landing Citizen,Luna Kalo,1,2019,2019,Unknown,Unknown,Unknown
+Winterfell Girl,Emer McDaid,1,2019,2019,Unknown,Unknown,Unknown
+nan,Ella-Rose Sands,1,2019,2019,Unknown,Unknown,Unknown
+Pentoshi Servant,Rania Zouari,1,2011,2011,Unknown,Unknown,Unknown
+High Septon,David Verrey,1,2012,2012,Unknown,Unknown,Unknown
+Merry Frey,Grace Hendy,1,2013,2013,Unknown,Unknown,Unknown
+Bolton Guard,Anthony Boyle,1,2014,2014,Unknown,Unknown,Unknown
+Ralf Kenning,Grahame Fox,1,2014,2014,Unknown,Unknown,Unknown
+Pit Announcer,Nicholas Boulton,1,2015,2015,Unknown,Unknown,Unknown
+Street Red Priestess Volantis,Rila Fukushima,1,2015,2015,Unknown,Unknown,Unknown
+Winter Town Man,Raymond Keane,1,2015,2015,Unknown,Unknown,Unknown
+Northman Rioter,Jed Murray,1,2016,2016,Unknown,Unknown,Unknown
+Tully Bannerman,Sam Redford,1,2016,2016,Unknown,Unknown,Unknown
+Aerys Targaryen,David Rintoul,1,2016,2016,Unknown,Unknown,Targaryen
+Crayah,Lucy Aarden,1,2019,2019,Unknown,Unknown,Unknown
+King's Landing Citizen,Caitlin Pharro,1,2019,2019,Unknown,Unknown,Unknown
+Varly,Graham Charles,1,2011,2011,Unknown,Unknown,Unknown
+Goldcloak,Alan Paris,1,2011,2011,Unknown,Unknown,Unknown
+Hog Farmer,Pat McGrath,1,2013,2013,Unknown,Unknown,Unknown
+Elder Meereen Slave,Philip Philmar,1,2014,2014,Unknown,Unknown,Unknown
+Great Master #2,Bobby Asghar,1,2015,2015,Unknown,Unknown,Unknown
+Wildling Rioter,Michael Patrick,1,2016,2016,Unknown,Unknown,Unknown
+Dickon Tarly,Freddie Stroma,1,2016,2016,Unknown,Unknown,Unknown
+Crossroads Inn Patron,Ben Fox,1,2017,2017,Unknown,Unknown,Unknown
+Stark Soldier,Luke Wilson Hanley,1,2017,2017,Unknown,Unknown,Unknown
+Lannister General,Guy Oliver-Watts,1,2017,2017,Unknown,Unknown,Unknown
+Lannister Soldier,Ed Sheeran,1,2017,2017,Unknown,Unknown,Unknown
+'Littlefinger' Winterfell Spy,Adele Smyth-Kennedy,1,2017,2017,Unknown,Unknown,Unknown
+Northman,Robbie Beggs,1,2019,2019,Unknown,Unknown,Unknown
+Dirah,Marina Lawrence-Mahrra,1,2019,2019,Unknown,Unknown,Unknown
+King's Landing Citizen,Louis McCartney,1,2019,2019,Unknown,Unknown,Unknown
+nan,Fionnuala Murphy,1,2019,2019,Unknown,Unknown,Unknown
+White Walker #2,Spencer Wilding,1,2011,2011,Unknown,Unknown,Unknown
+Lannister Guard,Sam Mackay,1,2012,2012,Unknown,Unknown,Unknown
+Drowned Priest,Jonathan Ryan,1,2012,2012,Unknown,Unknown,Unknown
+Theon's Master of Hounds,Steve Wilson,1,2012,2012,Unknown,Unknown,Unknown
+Fennesz,Trevor Allan Davies,1,2014,2014,Unknown,Unknown,Unknown
+Tansy,Jazzy De Lisser,1,2014,2014,Unknown,Unknown,Unknown
+Goatherd's Son,Gian Sanghera-Warren,1,2014,2014,Unknown,Unknown,Unknown
+Braavosi Madam,Lacy Moore,1,2015,2015,Unknown,Unknown,Unknown
+Merchant Captain,Gary Pillai,1,2015,2015,Unknown,Unknown,Unknown
+Great Master #3,Peter Silverleaf,1,2015,2015,Unknown,Unknown,Unknown
+Talla Tarly,Rebecca Benson,1,2016,2016,Unknown,Unknown,Unknown
+King's Landing Boaster,Dylan Edwards,1,2016,2016,Unknown,Unknown,Unknown
+Lannister Soldier,Matt Faris,1,2016,2016,Unknown,Unknown,Unknown
+Ash,Yousef 'Joe' Sweid,1,2016,2016,Unknown,Unknown,Unknown
+Crossroads Inn Patron,Mark Roper,1,2017,2017,Unknown,Unknown,Unknown
+Lannister Soldier,Thomas Turgoose,1,2017,2017,Unknown,Unknown,Unknown
+Teela,Rosa Frazer,1,2019,2019,Unknown,Unknown,Unknown
+King's Landing Citizen,Rosie McClelland,1,2019,2019,Unknown,Unknown,Unknown
+nan,Roma Tomelty,1,2019,2019,Unknown,Unknown,Unknown
+Dothraki Crone,Amira Ghazalla,1,2011,2011,Unknown,Unknown,Unknown
+Jaremy Rykker,Jeffrey O'Brien,1,2011,2011,Unknown,Unknown,Unknown
+Wight Wildling Girl,Claire Wright,2,2011,2014,Unknown,Unknown,Unknown
+Captain's Daughter,Amy Dawson,1,2012,2012,Unknown,Unknown,Unknown
+Rennick,David Fynn,1,2012,2012,Unknown,Unknown,Unknown
+Wendel Manderly,Oddie Braddell,1,2013,2013,Unknown,Unknown,Unknown
+nan,Mackenzie Dean,1,2014,2014,Unknown,Unknown,Unknown
+Adrack Humble,Jody Halse,1,2014,2014,Unknown,Unknown,Unknown
+Morgan's Friend,Stuart Martin,1,2014,2014,Unknown,Unknown,Unknown
+Young Braavosi,Jack Hickey,1,2015,2015,Unknown,Unknown,Unknown
+Great Master #4,Davor Jozinovic,1,2015,2015,Unknown,Unknown,Unknown
+Lead Dornish Guard,Christian Vit,1,2015,2015,Unknown,Unknown,Unknown
+Moro's Wife #1,Rubi Ali,1,2016,2016,Unknown,Unknown,Unknown
+Kesh,Michael Heath,1,2016,2016,Unknown,Unknown,Unknown
+Ironborn at Brothel,Neil Keery,1,2016,2016,Unknown,Unknown,Unknown
+Riddell,Ross McKinney,1,2016,2016,Unknown,Unknown,Unknown
+Lannister Soldier,Billy Postlethwaite,1,2017,2017,Unknown,Unknown,Unknown
+nan,Claire Connor,1,2019,2019,Unknown,Unknown,Unknown
+King's Landing Citizen,Isaac Heslip,1,2019,2019,Unknown,Unknown,Unknown
+Joss,Niall Cusack,1,2011,2011,Unknown,Unknown,Unknown
+Drunk Patron,Paul Portelli,1,2011,2011,Unknown,Unknown,Unknown
+Torrhen Karstark,Tyrone McElhennon,1,2012,2012,Unknown,Unknown,Unknown
+Drummer,Will Champion,1,2013,2013,Unknown,Unknown,Unknown
+Great Master #5,Ivan Peric,1,2015,2015,Unknown,Unknown,Unknown
+Kinvara,Ania Bukstein,1,2016,2016,Unknown,Unknown,Unknown
+Steve,Steve Love,1,2016,2016,Unknown,Unknown,Unknown
+Volantene Whore #2,Heidi Romanova,1,2016,2016,Unknown,Unknown,Unknown
+Tyrell Bannerman,Raül Tortosa,1,2016,2016,Unknown,Unknown,Unknown
+Lannister Guard,Adam Slynn,1,2017,2017,Unknown,Unknown,Unknown
+Winter Town Boy,Felix Jamieson,1,2019,2019,Unknown,Unknown,Unknown
+Lannister Soldier,Jack Morgan,1,2019,2019,Unknown,Unknown,Unknown
+Tomard,Phil Dixon,1,2011,2011,Unknown,Unknown,Unknown
+Stiv,Stephen Don,1,2011,2011,Unknown,Unknown,Unknown
+King's Landing Baker,Edward Mercieca,1,2011,2011,Unknown,Unknown,Unknown
+Goldcloak #1,Nikovich Sammut,1,2011,2011,Unknown,Unknown,Unknown
+Karstark Soldier #1,Neill Fleming,1,2012,2012,Unknown,Unknown,Unknown
+Lordsport Dockhand,Jer O'Leary,1,2012,2012,Unknown,Unknown,Unknown
+Bolton Soldier,Bryan Quinn,1,2013,2013,Unknown,Unknown,Unknown
+Leaf,Octavia Selena Alexandru,1,2014,2014,Unknown,Unknown,Unknown
+Vance Corbray,Richard Doubleday,1,2014,2014,Unknown,Unknown,Unknown
+Valyrian Slave,Robert Goodman,1,2014,2014,Unknown,Unknown,Unknown
+Axell Florent,James McHale,1,2014,2014,Unknown,Unknown,Unknown
+Innkeeper,Martin Walsh,1,2014,2014,Unknown,Unknown,Unknown
+Great Master #6,Hadi Kermani,1,2015,2015,Unknown,Unknown,Unknown
+Lannister Soldier,Brahm Gallagher,1,2016,2016,Unknown,Unknown,Unknown
+Khal Forzho,Tamer Hassan,1,2016,2016,Unknown,Unknown,Unknown
+Volantene Whore #3,Danielle Claire Jenner,1,2016,2016,Unknown,Unknown,Unknown
+Winter Town Woman,Syd Ralph,1,2019,2019,Unknown,Unknown,Unknown
+Goldcloak #2,Seamus Kelly,1,2011,2011,Unknown,Unknown,Unknown
+Night's Watchman,Marcus Lamb,1,2011,2011,Unknown,Unknown,Unknown
+Little Bird,Tristan Mercieca,1,2011,2011,Unknown,Unknown,Unknown
+Knight of House Lynderly,Paddy Rocks,1,2011,2011,Unknown,Unknown,Unknown
+Old Woman Prisoner,Gina Moxley,1,2012,2012,Unknown,Unknown,Unknown
+Mirelle,Elisa Lasowski,1,2013,2013,Unknown,Unknown,Unknown
+Sorcerer,Harold James McMullan,1,2013,2013,Unknown,Unknown,Unknown
+Unsullied,Karl Jackson,1,2014,2014,Unknown,Unknown,Unknown
+Lord Blackmont,Daniel Rabin,1,2014,2014,Unknown,Unknown,Unknown
+Great Master #7,Tonci Banov,1,2015,2015,Unknown,Unknown,Unknown
+Brothel Guard,Mishaël Lopes Cardozo,1,2015,2015,Unknown,Unknown,Unknown
+Faith Militant #1,Simon Norbury,1,2015,2015,Unknown,Unknown,Unknown
+Volantene Whore #4,Ella Hughes,1,2016,2016,Unknown,Unknown,Unknown
+The Waif's Disguise,Adam Turns,1,2016,2016,Unknown,Unknown,Unknown
+Stevron Frey,Colin Carnegie,1,2011,2011,Unknown,Unknown,Unknown
+Eon Hunter,Barrington Cullen,1,2011,2011,Unknown,Unknown,Unknown
+Gerald,Ken Fletcher,1,2012,2012,Unknown,Unknown,Unknown
+Boat Commander,Michael Power,1,2013,2013,Unknown,Unknown,Unknown
+Musician #1,Jon Thor Birgisson,1,2014,2014,Unknown,Unknown,Unknown
+Goatherd,Darren Kent,1,2014,2014,Unknown,Unknown,Unknown
+Kegs,Tim Landers,1,2014,2014,Unknown,Unknown,Unknown
+Derek,Ian Lloyd Anderson,1,2015,2015,Unknown,Unknown,Unknown
+Lollys Stokeworth,Elizabeth Cadwallader,1,2015,2015,Unknown,Unknown,Unknown
+Despondent Man,David Garlick,1,2015,2015,Unknown,Unknown,Unknown
+Faith Militant #2,Jack Olohan,1,2015,2015,Unknown,Unknown,Unknown
+Volantene Whore #5,Zoi Gorman,1,2016,2016,Unknown,Unknown,Unknown
+Winter Town Woman,Katie Tumelty,1,2019,2019,Unknown,Unknown,Unknown
+Ryger Rivers,Bryan McCaugherty,1,2011,2011,Unknown,Unknown,Unknown
+Night's Watch Deserter,Barry O'Connor,1,2011,2011,Unknown,Unknown,Unknown
+King's Landing Rioter #2,Marko Juraga,1,2012,2012,Unknown,Unknown,Unknown
+Colen of Greenpools,Darren Killeen,1,2012,2012,Unknown,Unknown,Unknown
+Wounded Lannister,Emmet O'Riabhaigh,1,2012,2012,Unknown,Unknown,Unknown
+Protestor,Edward Tudor-Pole,1,2012,2012,Unknown,Unknown,Unknown
+Margaery's Handmaiden,Aisling Jarrett-Gavin,1,2013,2013,Unknown,Unknown,Unknown
+Frey Soldier #1,Ciaran O'Grady,1,2013,2013,Unknown,Unknown,Unknown
+Riverlands Traveller,Joe Purcell,1,2013,2013,Unknown,Unknown,Unknown
+Musician #2,Orri P. Dyrason,1,2014,2014,Unknown,Unknown,Unknown
+Black Jack Bulwer,Cormac McDonagh,1,2014,2014,Unknown,Unknown,Unknown
+Ser Endrew Tarth,Dez McMahon,1,2014,2014,Unknown,Unknown,Unknown
+Craster's Wife #2,Aeryn Walker,1,2014,2014,Unknown,Unknown,Unknown
+Brant,Jonathan Byrne,1,2015,2015,Unknown,Unknown,Unknown
+Faceless Man,Cedric Henderson,1,2015,2015,Unknown,Unknown,Unknown
+Sellsword #1,Matt McArdle,1,2015,2015,Unknown,Unknown,Unknown
+Second Son,Slavko Sobin,1,2015,2015,Unknown,Unknown,Unknown
+Rickard Stark,Wayne Foskett,1,2016,2016,Unknown,Unknown,Stark
+Ironborn Abusing a Volantene Whore,Billy King,1,2016,2016,Unknown,Unknown,Unknown
+Poisoned Frey,Paul Ward,1,2017,2017,Unknown,Unknown,Unknown
+King's Landing Urchin,Stephen Grech,1,2011,2011,Unknown,Unknown,Unknown
+Beric Dondarrion,David Michael Scott,1,2011,2011,Unknown,Unknown,Unknown
+Tortured Prisoner,Donal Gallery,1,2012,2012,Unknown,Unknown,Unknown
+Karstark Soldier #2,Duncan Lacroix,1,2012,2012,Unknown,Unknown,Unknown
+King's Landing Rioter #3,Rea Separovic,1,2012,2012,Unknown,Unknown,Unknown
+Orphan Kid,Max Barber,1,2013,2013,Unknown,Unknown,Unknown
+Karstark Lookout,Shaun Blaney,1,2013,2013,Unknown,Unknown,Unknown
+King's Landing Tailor,Joe Cassidy,1,2013,2013,Unknown,Unknown,Unknown
+Frey Soldier #2,Michael Liebmann,1,2013,2013,Unknown,Unknown,Unknown
+Musician #3,Georg Holm,1,2014,2014,Unknown,Unknown,Unknown
+Craster's Wife #3,Cheryl Lester,1,2014,2014,Unknown,Unknown,Unknown
+Farmer Hamlet,Finbar Lynch,1,2014,2014,Unknown,Unknown,Unknown
+Mully,Andy Moore,1,2014,2014,Unknown,Unknown,Unknown
+Tyrell Guard,Nikola Bace,1,2015,2015,Unknown,Unknown,Unknown
+Sellsword #2,Eddie Elks,1,2015,2015,Unknown,Unknown,Unknown
+Lannister Guard #1,Danny O'Connor,1,2015,2015,Unknown,Unknown,Unknown
+Lead Kingsguard,Paddy Wallace,1,2015,2015,Unknown,Unknown,Unknown
+Arthur Dayne,Luke Roberts,1,2016,2016,Unknown,Unknown,Unknown
+Frey Lord,Brendan Morrissey,1,2017,2017,Unknown,Unknown,Unknown
+Reginald Lannister,Patrick FitzSymons,1,2012,2012,Unknown,Unknown,Unknown
+Brothel Customer,Derek Reid,1,2012,2012,Unknown,Unknown,Unknown
+Violet,Stephanie Blacker,1,2013,2013,Unknown,Unknown,Unknown
+Fruit Vendor,Alex Mileman,1,2013,2013,Unknown,Unknown,Unknown
+Tyrell Servant,Will Rastall,1,2013,2013,Unknown,Unknown,Unknown
+Warlock,Lottie Steer,1,2013,2013,Unknown,Unknown,Unknown
+King Joffrey Baratheon Dwarf,Raymond Griffiths,1,2014,2014,Unknown,Unknown,Unknown
+Wight,Alice Hewkin,1,2014,2014,Unknown,Unknown,Unknown
+Little Bird,Samuel Paul Small,1,2014,2014,Unknown,Unknown,Unknown
+Clea,Gwyneth Keyworth,1,2015,2015,Unknown,Unknown,Unknown
+Brusco,Garry Mountaine,1,2015,2015,Unknown,Unknown,Unknown
+Foreign Merchant,Allon Sylvain,1,2015,2015,Unknown,Unknown,Unknown
+Gerold Hightower,Eddie Eyre,1,2016,2016,Unknown,Unknown,Unknown
+Lannister Captain,Richard Laing,1,2016,2016,Unknown,Unknown,Unknown
+Iggo,Deon Lee-Williams,1,2016,2016,Unknown,Unknown,Unknown
+Sick Maester,Eamonn Draper,1,2017,2017,Unknown,Unknown,Unknown
+Rickard Karstark,Steve Blount,1,2011,2011,Unknown,Unknown,Unknown
+Unsullied,Rhys Howells,1,2013,2013,Unknown,Unknown,Unknown
+nan,Jon Freeman,1,2014,2014,Unknown,Unknown,Unknown
+Whore #1,Kristen Gillespie,1,2014,2014,Unknown,Unknown,Unknown
+King Stannis Baratheon Dwarf,Maxwell Laird,1,2014,2014,Unknown,Unknown,Unknown
+Sailor,Dylan McDonough,1,2015,2015,Unknown,Unknown,Unknown
+Beggar Woman,Emina Muftic,1,2015,2015,Unknown,Unknown,Unknown
+Denys Mallister,J.J. Murphy,1,2015,2015,Unknown,Unknown,Unknown
+Young Cersei Lannister,Nell Williams,1,2015,2015,Unknown,Unknown,Unknown
+Khal Brozho,Elie Haddad,1,2016,2016,Unknown,Unknown,Unknown
+Jonos Bracken,Gerry O'Brien,1,2011,2011,Unknown,Unknown,Unknown
+Stark Messenger,Moe Dunford,1,2012,2012,Unknown,Unknown,Unknown
+Jaqen's Disguise,Patrick O'Kane,1,2012,2012,Unknown,Unknown,Unknown
+Desmond Crakehall,Maro Drobnic,1,2013,2013,Unknown,Unknown,Unknown
+Guymon,Jem Wall,1,2014,2014,Unknown,Unknown,Unknown
+King Renly Baratheon Dwarf,Dean Whatton,1,2014,2014,Unknown,Unknown,Unknown
+nan,Rob Brockman,1,2015,2015,Unknown,Unknown,Unknown
+Baratheon General,Nigel O'Neill,1,2015,2015,Unknown,Unknown,Unknown
+Melara Hetherspoon,Isabella Steinbarth,1,2015,2015,Unknown,Unknown,Unknown
+Braavosi Woman #1,Kate Anthony,1,2016,2016,Unknown,Unknown,Unknown
+Khal Rhalko,Andrei Claude,1,2016,2016,Unknown,Unknown,Unknown
+Young Lyanna Stark,Cordelia Hill,1,2016,2016,Unknown,Unknown,Unknown
+Knight of House Frey,Patrick Ryan,1,2011,2011,Unknown,Unknown,Unknown
+Lannister Messenger,Simon Stewart,1,2011,2011,Unknown,Unknown,Unknown
+Lannister Torturer,Mark Byatt,1,2012,2012,Unknown,Unknown,Unknown
+Northern Lord,Pat Mooney,1,2012,2012,Unknown,Unknown,Unknown
+Stark Soldier,Michael Shaeffer,1,2012,2012,Unknown,Unknown,Unknown
+Yunkai'i Slave #1,Marin Tudor,1,2013,2013,Unknown,Unknown,Unknown
+King Robb Stark Dwarf,George Appleby,1,2014,2014,Unknown,Unknown,Unknown
+Innkeeper's Daughter,Gabrielle Dempsey,1,2014,2014,Unknown,Unknown,Unknown
+Olly's Mother,Raewyn Lippert,1,2014,2014,Unknown,Unknown,Unknown
+Street Tough #1,Tom Fava,1,2015,2015,Unknown,Unknown,Unknown
+Septa Moelle,Maggie Hayes,1,2015,2015,Unknown,Unknown,Unknown
+White Rat,Marcos James,1,2015,2015,Unknown,Unknown,Unknown
+nan,Daniel Johnson,1,2015,2015,Unknown,Unknown,Unknown
+Anara,Ollie Kram,1,2015,2015,Unknown,Unknown,Unknown
+Citadel Maester,Frank Hvam,1,2016,2016,Unknown,Unknown,Unknown
+Khal Qorro,Darius Dar Khan,1,2016,2016,Unknown,Unknown,Unknown
+Braavosi Woman #2,Sally Mortemore,1,2016,2016,Unknown,Unknown,Unknown
+Serving Girl,Kate Dempsey,1,2017,2017,Unknown,Unknown,Unknown
+Addam Marbrand,B.J. Hogg,1,2011,2011,Unknown,Unknown,Unknown
+Vayon Poole,Matthew Scurfield,1,2011,2011,Unknown,Unknown,Unknown
+Yunkai'i Slave #2,Roxana Kadyrova,1,2013,2013,Unknown,Unknown,Unknown
+Bolton Soldier,Gary Lightbody,1,2013,2013,Unknown,Unknown,Unknown
+King Balon Greyjoy Dwarf,Krysten Coombs,1,2014,2014,Unknown,Unknown,Unknown
+Whore #2,Maria Sikavica,1,2014,2014,Unknown,Unknown,Unknown
+nan,Richard Fitzwell,1,2015,2015,Unknown,Unknown,Unknown
+Strong Sam Stone,Allan Gildea,1,2015,2015,Unknown,Unknown,Unknown
+Septa Scolera,Mary Jordan,1,2015,2015,Unknown,Unknown,Unknown
+Mallister Supporter,Derek Lord,1,2015,2015,Unknown,Unknown,Unknown
+Brea,Gemita Samarra,1,2015,2015,Unknown,Unknown,Unknown
+Masha Heddle,Susie Kelly,1,2011,2011,Unknown,Unknown,Unknown
+Stark Guard,Faolan Morgan,1,2011,2011,Unknown,Unknown,Unknown
+Night's Watch Messenger,Frank O'Sullivan,1,2011,2011,Unknown,Unknown,Unknown
+Septon,Terry Byrne,1,2012,2012,Unknown,Unknown,Unknown
+Qartheen Woman,Kristina Krepela,1,2012,2012,Unknown,Unknown,Unknown
+Craster's Wife,Michelle Costello,1,2013,2013,Unknown,Unknown,Unknown
+Yunkai'i Slave #3,Jamal Ouarraq,1,2013,2013,Unknown,Unknown,Unknown
+Eyrie Guard,Paul Kennedy,1,2015,2015,Unknown,Unknown,Unknown
+Whore,Irma Mali,1,2015,2015,Unknown,Unknown,Unknown
+Brothel Customer,Ben Yates,1,2015,2015,Unknown,Unknown,Unknown
+Night's Watchman #2,Ruairí Heading,1,2016,2016,Unknown,Unknown,Unknown
+Lannister Soldier,Ciaran McMahon,1,2012,2012,Unknown,Unknown,Unknown
+Yunkai'i Slave #4,El Hasani,1,2013,2013,Unknown,Unknown,Unknown
+Craster's Younger Wife,Lisa Walsh,1,2013,2013,Unknown,Unknown,Unknown
+Sparring Boy,Stephen Brown,1,2015,2015,Unknown,Unknown,Unknown
+Street Tough #2,Winston Davis,1,2015,2015,Unknown,Unknown,Unknown
+Aya,Aifric O'Donnell,1,2015,2015,Unknown,Unknown,Unknown
+Brothel Child #1,Ella Tweed,1,2015,2015,Unknown,Unknown,Unknown
+Bolton Officer,Andrew Bryan,1,2016,2016,Unknown,Unknown,Unknown
+Lannister Scout,Chris Gallagher,1,2011,2011,Unknown,Unknown,Unknown
+Rhaego,Wren Ros Elliot-Sloan,1,2012,2012,Unknown,Unknown,Unknown
+Yunkai'i Slave #5,Mustapha Mekanassi,1,2013,2013,Unknown,Unknown,Unknown
+Maester Helliweg,Joe Hewetson,1,2015,2015,Unknown,Unknown,Unknown
+Brothel Child #2,Isabelle Jones,1,2015,2015,Unknown,Unknown,Unknown
+Inn Waitress,Irene Kelleher,1,2015,2015,Unknown,Unknown,Unknown
+Lannister Guard #2,Fiach Kunz,1,2015,2015,Unknown,Unknown,Unknown
+Handmaid,Sabrina Bartlett,1,2016,2016,Unknown,Unknown,Unknown
+Bolton Soldier,Tristan Heanue,1,2016,2016,Unknown,Unknown,Unknown
+Ironborn #3,James Lecky,1,2016,2016,Unknown,Unknown,Unknown
+Stark Guard,Rick Burn,1,2011,2011,Unknown,Unknown,Unknown
+Genna,Kylie Harris,1,2013,2013,Unknown,Unknown,Unknown
+Son of the Harpy,Curtis-Lee Ashqar,1,2015,2015,Unknown,Unknown,Unknown
+Baratheon Soldier #1,David Fennelly,1,2015,2015,Unknown,Unknown,Unknown
+Lannister Guard #3,Michael Johnston,1,2015,2015,Unknown,Unknown,Unknown
+Meereenese Homeless Mother,Sabina Arthur,1,2016,2016,Unknown,Unknown,Unknown
+Tommen's Attendant,Dermot Ward,1,2016,2016,Unknown,Unknown,Unknown
+Red Keep Stableboy,Hugo Culverhouse,1,2011,2011,Unknown,Unknown,Unknown
+Night's Watchman,Patrick J Molloy,1,2014,2014,Unknown,Unknown,Unknown
+Dwarf Hunter #1,Jonathan Gunning,1,2015,2015,Unknown,Unknown,Unknown
+Maester Caleotte,Colin Azzopardi,1,2016,2016,Unknown,Unknown,Unknown
+Tommen's Manservant,Aron Hegarty,1,2016,2016,Unknown,Unknown,Unknown
+Chella,Natalia Lee,1,2012,2012,Unknown,Unknown,Unknown
+Gordy,Tristan McConnell,1,2015,2015,Unknown,Unknown,Unknown
+Dwarf Hunter #2,Alan McKee,1,2015,2015,Unknown,Unknown,Unknown
+Wyman Manderly,Sean Blowers,1,2016,2016,Unknown,Unknown,Unknown
+Lord Portan,Gordon Fulton,1,2012,2012,Unknown,Unknown,Unknown
+Farmer's Daughter,Trixiebell Harrowell,1,2014,2014,Unknown,Unknown,Unknown
+Simpson,Laurence O'Fuarain,1,2015,2015,Unknown,Unknown,Unknown
+Cley Cerwyn,Tom Varey,1,2016,2016,Unknown,Unknown,Unknown
+Tourney Herald,Marko Cindric,1,2012,2012,Unknown,Unknown,Unknown
+Tortured Slave,Mark Drake,1,2013,2013,Unknown,Unknown,Unknown
+Woodcutter,Ralph Clemente,1,2015,2015,Unknown,Unknown,Unknown
+Dothraki Man Having Sex,Oliver Stockwell,1,2016,2016,Unknown,Unknown,Unknown
+King's Landing Drunkard,Anthony John Crocker,1,2015,2015,Unknown,Unknown,Unknown
+Great Master #2,Derek Horsham,1,2014,2014,Unknown,Unknown,Unknown
+King's Landing Whore,Kirsty Nicholls,1,2015,2015,Unknown,Unknown,Unknown
+Meereen Slave,Joshua Sher,1,2014,2014,Unknown,Unknown,Unknown
+King's Landing Flasher #1,Munro Graham,1,2015,2015,Unknown,Unknown,Unknown
+King's Landing Flasher #2,Ben Kelly,1,2015,2015,Unknown,Unknown,Unknown
+Cersei Body Double,Rebecca Van Cleave,1,2015,2015,Unknown,Unknown,Unknown
+The Bear,Bart the Bear,1,2013,2013,Unknown,Unknown,Unknown
+Night's Watch Officer,Michael Stuart,19,2013,2019,Unknown,Unknown,Unknown
+Baratheon Soldier,Graeme Peacock,11,2012,2017,Unknown,Unknown,Unknown
+Baratheon Soldier,Mark Quigley,11,2014,2019,Unknown,Unknown,Unknown
+Stark Soldier,Andrew McClay,10,2015,2019,Unknown,Unknown,Unknown
+Night's Watch,Bobby Marno,10,2015,2017,Unknown,Unknown,Unknown
+Baratheon Soldier,James Bleakney,9,2013,2016,Unknown,Unknown,Unknown
+Ironborn,Logan Bruce,6,2013,2019,Unknown,Unknown,Unknown
+Brotherhood Member,Tyrone Kearns,6,2013,2016,Unknown,Unknown,Unknown
+Knight of the Vale,Micheal Fitzgerald,6,2016,2019,Unknown,Unknown,Unknown
+Unsullied,Stephen Presley,6,2019,2019,Unknown,Unknown,Unknown
+Unsullied,Andrew Watson,6,2019,2019,Unknown,Unknown,Unknown
+Northern Lord,Robert Brown,5,2015,2019,Unknown,Unknown,Unknown
+Knight,Frédéric André,4,2011,2016,Unknown,Unknown,Unknown
+Craster's Wife,Kristy Robinson,4,2012,2015,Unknown,Unknown,Unknown
+Wildling,Jessica Odell,4,2015,2016,Unknown,Unknown,Unknown
+Stark Archer,Patrick Kelly,4,2016,2019,Unknown,Unknown,Unknown
+King's Landing Nobleman,Frank Cannon,3,2015,2016,Unknown,Unknown,Unknown
+Dothraki woman,Mariola Sanz,3,2015,2016,Unknown,Unknown,Unknown
+Meereen Guard,Juan Carlos Martínez Antuña,3,2017,2017,Unknown,Unknown,Unknown
+Unsullied Soldier,Jaryd Headley,3,2019,2019,Unknown,Unknown,Unknown
+Wildling,Brian Kearns,3,2019,2019,Unknown,Unknown,Unknown
+Lord Galbart Glover,Mark Coney,2,2011,2011,Unknown,Unknown,Unknown
+Mikken,Boyd Rankin,2,2011,2011,Unknown,Unknown,Unknown
+Nobleman,Aaron Archer,2,2012,2016,Unknown,Unknown,Unknown
+Frey Wedding Guest,Darragh O'Connor,2,2013,2016,Unknown,Unknown,Unknown
+Frey Wedding Guest,Laurence Doherty,2,2013,2014,Unknown,Unknown,Unknown
+Night's Watch,Gerald McMullan,2,2014,2017,Unknown,Unknown,Unknown
+Dothraki Rider,Daniel Naprous,2,2014,2017,Unknown,Unknown,Unknown
+King's Landing Handmaiden,Niamh Lennon,2,2014,2014,Unknown,Unknown,Unknown
+Mole's Town Whore,Marion McDowell,2,2014,2014,Unknown,Unknown,Unknown
+Tyrell Cousin,Kylie Zimmer,2,2014,2014,Unknown,Unknown,Unknown
+Burning Lannister,Calvin Warrington-Heasman,2,2015,2017,Unknown,Unknown,Unknown
+Tully Soldier,Simon Millar,2,2015,2016,Unknown,Unknown,Unknown
+Wildling,Jessica Stevenson,2,2015,2015,Unknown,Unknown,Unknown
+Karstark Soldier,Peter Rooney,2,2016,2019,Unknown,Unknown,Unknown
+Bolton Infantry,Kevin-Barry Brown,2,2016,2016,Unknown,Unknown,Unknown
+Kingsland Taverner,Michael William Burns,2,2016,2016,Unknown,Unknown,Unknown
+Braavosi Theatre Server,Tamsin Greene Barker,2,2016,2016,Unknown,Unknown,Unknown
+Braavosi Theatre Sound Artist,Kiran Shah,2,2016,2016,Unknown,Unknown,Unknown
+Meereen Guard,Hugh Yeaman,2,2016,2016,Unknown,Unknown,Unknown
+Captured Wight,Michael Byrch,2,2017,2017,Unknown,Unknown,Unknown
+Lady of Winterfell,Canan Avsar,2,2019,2019,Unknown,Unknown,Unknown
+Dothraki Rider,Spencer Collings,2,2019,2019,Unknown,Unknown,Unknown
+Baratheon Guard,Phil Barnhill,1,2011,2011,Unknown,Unknown,Unknown
+Prostitute,Caroline Davis,1,2011,2011,Unknown,Unknown,Unknown
+Winterfell Beekeeper,Owen Dickey,1,2011,2011,Unknown,Unknown,Unknown
+Mago,Ivailo Dimitrov,1,2011,2011,Unknown,Unknown,Unknown
+Lady of Eyrie Landing (2011),Bernadette Dobbin,1,2011,2011,Unknown,Unknown,Unknown
+Peasant,Melissa Reid,1,2011,2011,Unknown,Unknown,Unknown
+Lannister Guard,James Tolcher,1,2011,2011,Unknown,Unknown,Unknown
+King's Guard,Robert Yates,1,2011,2011,Unknown,Unknown,Unknown
+Baratheon Archer,Robert Atkinson,1,2012,2012,Unknown,Unknown,Unknown
+Wight,Noel Cecil,1,2012,2012,Unknown,Unknown,Unknown
+Black Knight,Jonathan Cohen,1,2012,2012,Unknown,Unknown,Unknown
+Lannister Archer,Hugh Irvine,1,2012,2012,Unknown,Unknown,Unknown
+Weasel,Paul Kealyn,1,2012,2012,Unknown,Unknown,Unknown
+Selyse Baratheon,Sarah Mac Keever,1,2012,2012,Unknown,Unknown,Unknown
+Young Nobleman,Filip Lozic,1,2012,2012,Unknown,Unknown,Unknown
+Stark Guard,Paul Monahan,1,2012,2012,Unknown,Unknown,Unknown
+Craster's Daughter,Ginger A. Taylor,1,2012,2012,Unknown,Unknown,Unknown
+Riverrun Nobleman,Matt Butcher,1,2013,2013,Unknown,Unknown,Unknown
+Marianne Frey,Katie Creaven,1,2013,2013,Unknown,Unknown,Unknown
+Musician,Kevin McCann,1,2013,2013,Unknown,Unknown,Unknown
+Hoster Tully,Christopher Newman,1,2013,2013,Unknown,Unknown,Tully
+Bathhouse Boy,Niall O'Donnell,1,2013,2013,Unknown,Unknown,Unknown
+Khaleesi Handmaiden #1,Rachel Puchkoff,1,2013,2013,Unknown,Unknown,Unknown
+Yunkai Citizen,Mustapha Rachidi,1,2013,2013,Unknown,Unknown,Unknown
+Dothraki,Omar Youssef,1,2013,2013,Unknown,Unknown,Unknown
+Noble Man,Neil Baltus,1,2014,2014,Unknown,Unknown,Unknown
+Waitress,Emma Bryant,1,2014,2014,Unknown,Unknown,Unknown
+Cooper,Joe Claflin,1,2014,2014,Unknown,Unknown,Unknown
+Dragonstone waiter,Bryan Cogman,1,2014,2014,Unknown,Unknown,Unknown
+Stannis Guard,Oisin De Lange,1,2014,2014,Unknown,Unknown,Unknown
+Wedding Guest,Paul Herbert,1,2014,2014,Unknown,Unknown,Unknown
+Inn Customer,Phelim Kelly,1,2014,2014,Unknown,Unknown,Unknown
+Frey Serving Boy,Mark Kelvin Ryan,1,2014,2014,Unknown,Unknown,Unknown
+Noble Lady,Stella Lutz,1,2014,2014,Unknown,Unknown,Unknown
+Night's Watch Archer,Neil Marshall,1,2014,2014,Unknown,Unknown,Unknown
+Donnel Hill,Jack Roth,1,2014,2014,Unknown,Unknown,Unknown
+Wedding Band,Sigur Rós,1,2014,2014,Unknown,Unknown,Unknown
+Wedding Guest,C.C. Smiff,1,2014,2014,Unknown,Unknown,Unknown
+Strong Fighter,Adam Basil,1,2015,2015,Unknown,Unknown,Unknown
+Fighter,Roman Beguns,1,2015,2015,Unknown,Unknown,Unknown
+Wildling,Brann Dailor,1,2015,2015,Unknown,Unknown,Unknown
+Fighter,Rob de Groot,1,2015,2015,Unknown,Unknown,Unknown
+Wildling Archer,Jenny Edgar,1,2015,2015,Unknown,Unknown,Unknown
+Wight,Cassie Friel,1,2015,2015,Unknown,Unknown,Unknown
+Wildling,Brent Hinds,1,2015,2015,Unknown,Unknown,Unknown
+Slave,Terence Hughes,1,2015,2015,Unknown,Unknown,Unknown
+Pit Fighter,Charles Jarman,1,2015,2015,Unknown,Unknown,Unknown
+Wilding Gladiator,Danko Jordanov,1,2015,2015,Unknown,Unknown,Unknown
+Wildling,Bill Kelliher,1,2015,2015,Unknown,Unknown,Unknown
+Night's Watch Recruit,Christopher Kinkead,1,2015,2015,Unknown,Unknown,Unknown
+Wildling Archer,Chelsea Mainwaring,1,2015,2015,Unknown,Unknown,Unknown
+Wight,Barrie Martin,1,2015,2015,Unknown,Unknown,Unknown
+Wildling,Elaine O'Dwyer,1,2015,2015,Unknown,Unknown,Unknown
+Wildling,Royd Tolkien,1,2015,2015,Unknown,Unknown,Unknown
+Passerby,Kerim Topcic,1,2015,2015,Unknown,Unknown,Unknown
+Unsullied Guard,Pablo Verdejo,1,2015,2015,Unknown,Unknown,Unknown
+Volantene Whore,Raquel Arraes,1,2016,2016,Unknown,Unknown,Unknown
+Child of the Forest #1,Kristina Baskett,1,2016,2016,Unknown,Unknown,Unknown
+Child of the Forest #2,Rachelle Beinart,1,2016,2016,Unknown,Unknown,Unknown
+Tavern Maid,Elynia Betts,1,2016,2016,Unknown,Unknown,Unknown
+Volantene Whore,Susan Christie,1,2016,2016,Unknown,Unknown,Unknown
+Frey Daughter,Milly Burke Cunningham,1,2016,2016,Unknown,Unknown,Unknown
+Quinn,Oryan Landa,1,2016,2016,Unknown,Unknown,Unknown
+'That's Right' Man,Jose Mellinas,1,2016,2016,Unknown,Unknown,Unknown
+Child of the Forest #3,Casey Michaels,1,2016,2016,Unknown,Unknown,Unknown
+Volantene Whore,Sophia Smith,1,2016,2016,Unknown,Unknown,Unknown
+Healtor Troop,Gary Wales,1,2016,2016,Unknown,Unknown,Unknown
+Howland Reed,Leo Woodruff,1,2016,2016,Unknown,Unknown,Unknown
+Dothraki Rider,Charlie Barrett,1,2017,2017,Unknown,Unknown,Unknown
+Traveller,Dario Cannizzaro,1,2017,2017,Unknown,Unknown,Unknown
+Woman in King's Landing,Carolina Castellano,1,2017,2017,Unknown,Unknown,Unknown
+Wildling,Dan Euston,1,2017,2017,Unknown,Unknown,Unknown
+Lannister Guard,Christian Gimse,1,2017,2017,Unknown,Unknown,Unknown
+Lannister Soldier,Seán McGillicuddy,1,2017,2017,Unknown,Unknown,Unknown
+Night's Watch,Brendan McGivern,1,2017,2017,Unknown,Unknown,Unknown
+Tyrell Guard,Ross Moneypenny,1,2017,2017,Unknown,Unknown,Unknown
+Burning Lannister,Douglas Robson,1,2017,2017,Unknown,Unknown,Unknown
+Lannister Map Painter,Jim Stanes,1,2017,2017,Unknown,Unknown,Unknown
+Lannister Spearman,Noah Syndergaard,1,2017,2017,Unknown,Unknown,Unknown
+Unsullied,Louis Agbodo,1,2019,2019,Unknown,Unknown,Unknown
+King's Landing Citizen,Lorenzo Antonucci,1,2019,2019,Unknown,Unknown,Unknown
+Wildling #2,David Benioff,1,2019,2019,Unknown,Unknown,Unknown
+Lannister Archer,Brian Black,1,2019,2019,Unknown,Unknown,Unknown
+Alanna,Kim Chapman,1,2019,2019,Unknown,Unknown,Unknown
+Soldier,Sophie Ellis-Bextor,1,2019,2019,Unknown,Unknown,Unknown
+Ironborn #3,Dave Hill,1,2019,2019,Unknown,Unknown,Unknown
+Wight,Jack Hudson,1,2019,2019,Unknown,Unknown,Unknown
+Soldier,Richard Jones,1,2019,2019,Unknown,Unknown,Unknown
+Ironborn #1,Rob McElhenney,1,2019,2019,Unknown,Unknown,Unknown
+King's Landing Citizen,Patrick McGilligan,1,2019,2019,Unknown,Unknown,Unknown
+Stark Guard,Jesse Morris,1,2019,2019,Unknown,Unknown,Unknown
+Lannister Officer,Duncan Muggoch,1,2019,2019,Unknown,Unknown,Unknown
+Grieving Daughter,Michelle O'Flaherty,1,2019,2019,Unknown,Unknown,Unknown
+Lannister Guard,Adam Quigley-Nixon,1,2019,2019,Unknown,Unknown,Unknown
+King's Landing Citizen,Aaron Rodgers,1,2019,2019,Unknown,Unknown,Unknown
+Old Man,Derek Smith,1,2019,2019,Unknown,Unknown,Unknown
+Wildling Wight,Chris Stapleton,1,2019,2019,Unknown,Unknown,Unknown
+Ironborn #2,Martin Starr,1,2019,2019,Unknown,Unknown,Unknown
+Soldier,Vasco Temudo,1,2019,2019,Unknown,Unknown,Unknown
+Wildling #1,D.B. Weiss,1,2019,2019,Unknown,Unknown,Unknown
+Wight,Gareth Wright,1,2019,2019,Unknown,Unknown,Unknown
