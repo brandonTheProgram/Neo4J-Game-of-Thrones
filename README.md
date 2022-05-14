@@ -2,7 +2,7 @@
 
 # About
 During my research into graph databases, I explored Neo4J with some training data. To learn Cypher and Neo4J, I used data from Game of Thrones to build graphs to show how each character is connected to their families and their royal houses. I explored using Neo4J Browser, Neo4J Bloom, and 3D Force Graph.
-Browser is used as a query tool to run Cypher queries against your Neo4j graph data and view results. Bloom is used for visualizing graph data using search inputs. 3D Force Graph is a web component to represent a graph data structure in a 3-dimensional space using a force-directed iterative layout. By using JavaScript, a user is able to visualize their graph in the third dimension instead of the second.
+Browser is used as a query tool to run Cypher queries against your Neo4j graph data and view results. Bloom is used for visualizing graph data using search inputs. 3D Force Graph is a web component to represent a graph data structure in a 3-dimensional space using a force-directed iterative layout. By using JavaScript, a user is able to visualize their graph in the third dimension instead of the second. In the end, I created a graph database of employees at my internship's company but that data is private so here is a GOT example.
 
 # How to Run
 ## Dataset
